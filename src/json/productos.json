@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "65af0eb3ebc51a1c5af0cae5"
+  },
+  "title": "Pedigree Adulto x21kg",
+  "description": "Alimento completo para perros adultos",
+  "price": 15000,
+  "code": "4000",
+  "stock": 100,
+  "status": true,
+  "category": "dog",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af0ef8ebc51a1c5af0caeb"
+  },
+  "title": "Pedigree Cachorro x21kg",
+  "description": "Alimento completo para perros Cachorros",
+  "price": 20000,
+  "code": "4010",
+  "stock": 100,
+  "status": true,
+  "category": "dog",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af0f12ebc51a1c5af0caef"
+  },
+  "title": "Pedigree Pequeños x15kg",
+  "description": "Alimento completo para perros Pequeños",
+  "price": 15000,
+  "code": "4039",
+  "stock": 100,
+  "status": true,
+  "category": "dog",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af0f64ebc51a1c5af0caf3"
+  },
+  "title": "Pedigree Senior x8kg",
+  "description": "Alimento completo para perros Mayores",
+  "price": 12000,
+  "code": "4041",
+  "stock": 100,
+  "status": true,
+  "category": "dog",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af0f9cebc51a1c5af0caf7"
+  },
+  "title": "Whiskas pescado x10kg",
+  "description": "Alimento completo para gatos adultos",
+  "price": 20000,
+  "code": "4024",
+  "stock": 100,
+  "status": true,
+  "category": "cat",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af0fa7ebc51a1c5af0cafb"
+  },
+  "title": "Whiskas pollo x10kg",
+  "description": "Alimento completo para gatos adultos",
+  "price": 20000,
+  "code": "4018",
+  "stock": 100,
+  "status": true,
+  "category": "cat",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af0fb8ebc51a1c5af0caff"
+  },
+  "title": "Whiskas carne x10kg",
+  "description": "Alimento completo para gatos adultos",
+  "price": 20000,
+  "code": "4021",
+  "stock": 100,
+  "status": true,
+  "category": "cat",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af0fceebc51a1c5af0cb03"
+  },
+  "title": "Whiskas gatitos x10kg",
+  "description": "Alimento completo para gatitos",
+  "price": 20000,
+  "code": "4030",
+  "stock": 100,
+  "status": true,
+  "category": "kitten",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af0fecebc51a1c5af0cb07"
+  },
+  "title": "Whiskas castrado x10kg",
+  "description": "Alimento completo para gatos castrados",
+  "price": 22000,
+  "code": "4037",
+  "stock": 100,
+  "status": true,
+  "category": "cat",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af1080e10a7620aa239551"
+  },
+  "title": "Whiskas salmon x10kg",
+  "description": "Alimento completo para gatos adultos",
+  "price": 22000,
+  "code": "4047",
+  "stock": 100,
+  "status": true,
+  "category": "cat",
+  "thunbnail": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af10abe10a7620aa239555"
+  },
+  "title": "Pedigree pequeños x8kg",
+  "description": "Alimento completo para perros pequeños",
+  "price": 9000,
+  "code": "4040",
+  "stock": 100,
+  "status": true,
+  "category": "dog",
+  "thunbnail": "",
+  "__v": 0
+}]
